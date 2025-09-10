@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>P. Bindu Madhavi - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+    }
+    .container {
+      width: 70%;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px 40px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    h1 {
+      font-size: 28px;
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 5px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 25px;
+      border-left: 4px solid #2c3e50;
+      padding-left: 8px;
+    }
+    p {
+      margin: 5px 0;
+      line-height: 1.5;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+    .section {
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>P. Bindu Madhavi</h1>
+    <p><strong>Student | Aspiring Developer | Good Communicator</strong></p>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p><strong>Bachelor’s Degree</strong> – TJS College of Arts and Science (Ongoing)</p>
+      <p>Completed Computer Classes</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>Programming Languages: C, C++</li>
+        <li>Data Structures</li>
+        <li>Web Development Fundamentals</li>
+        <li>Strong Communication Skills</li>
+        <li>Problem Solving</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Projects & Learning</h2>
+      <ul>
+        <li>Built small coding projects using C and C++</li>
+        <li>Practiced algorithms and data structures</li>
+        <li>Completed Web Development Fundamentals Course</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Career Objective</h2>
+      <p>To improve my coding skills and become a professional software developer while continuously learning new technologies.</p>
+    </div>
+  </div>
+</body>
+</html>
